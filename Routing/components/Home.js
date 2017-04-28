@@ -25,6 +25,7 @@ class Home extends Component {
         <Text>
           Homepage
         </Text>
+        /* Text is added for running on android */
         <Button onPress={()=> this.navigate('aboutPage', "Hello world!!")}><Text>Go to about page</Text></Button>
       </View>
     );
