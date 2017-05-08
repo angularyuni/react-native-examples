@@ -1,0 +1,3 @@
+rootProject.name = 'componentex'
+
+include ':app'
